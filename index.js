@@ -1,1 +1,1 @@
-console.log("Done feature");
+console.log("Done Heatmap");
