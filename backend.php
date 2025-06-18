@@ -1,2 +1,2 @@
 <?php
-echo "Backend finalized";
+echo "Backend";
