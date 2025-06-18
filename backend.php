@@ -1,2 +1,2 @@
 <?php
-echo "Backend with upload";
+echo "Backend";
