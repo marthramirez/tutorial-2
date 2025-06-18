@@ -1,2 +1,2 @@
 <?php
-echo "Backend w/ feature 3";
+echo "Backend";
