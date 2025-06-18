@@ -1,2 +1,2 @@
 <?php
-echo "Backend";
+echo "Backend with manage survey feature";
